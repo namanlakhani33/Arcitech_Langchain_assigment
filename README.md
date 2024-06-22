@@ -37,8 +37,10 @@ Install Requirements
 streamlit run app4.py
 ```
 
-![Screenshot 2024-06-22 122100](https://github.com/namanlakhani33/Arcitech_Langchain_assigment/assets/97312875/c3dac24a-b8b3-4fd8-9934-bd9c50fc863b)
+![image](https://github.com/namanlakhani33/Arcitech_Langchain_assigment/assets/97312875/14d29b35-bf6d-4b22-9e1d-e31fbccd5c5d)
+
 ![Screenshot 2024-06-22 122242](https://github.com/namanlakhani33/Arcitech_Langchain_assigment/assets/97312875/2b47dc34-6c4a-47d3-a2a8-4693acafd4bc)
+
 ![Screenshot 2024-06-22 122302](https://github.com/namanlakhani33/Arcitech_Langchain_assigment/assets/97312875/0a1687d7-fde1-4491-996e-c93620909015)
 
 # Flow
